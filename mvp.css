@@ -62,7 +62,7 @@ header,
 main {
     margin: 0 auto;
     max-width: var(--width-content);
-    padding: 3rem 1rem;
+    padding: 1rem 1rem;
 }
 
 hr {
